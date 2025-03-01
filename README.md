@@ -1,5 +1,3 @@
-Pizza Billing System
-Overview
 The Pizza Billing System is a simple Java application that allows users to order pizzas with additional options such as extra cheese, extra toppings, and takeaway services. The system calculates the final bill based on the selected options.
 Features
 Base Pizza Pricing
